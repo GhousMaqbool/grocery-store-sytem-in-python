@@ -101,5 +101,4 @@ Lowest priced : Bread (Rs. 120.00)
 - Data is not saved to a file, so it resets when the program closes.
 - Invalid inputs (letters instead of numbers, negative values, empty text, duplicate IDs) are rejected and the user is asked again.
 
-## Author
-Waleed Shehbaz
+
